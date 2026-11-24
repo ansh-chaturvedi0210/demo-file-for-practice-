@@ -8,9 +8,9 @@ Working on the github repository via vs code using git commands to connect local
 - dash se list
 - bullet agyi bhai
 
-`void main():`
-*this is the italic function*
-**bold krdo**
+`void main():`</br>
+*this is the italic function*<br>
+**bold krdo**<br>
 1. item1 
 2. item 2
 [git](https://github.com/ansh-chaturvedi0210/demo-file-for-practice-.git)
