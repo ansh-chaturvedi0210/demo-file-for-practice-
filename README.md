@@ -6,3 +6,14 @@ Working on the github repository via vs code using git commands to connect local
 # checking the use of hash for faktu main
 ## hash se title double hash se subtitle
 - dash se list
+- bullet agyi bhai
+
+`void main():`
+* this is the italic function *
+** bold krdo **
+1. item1 
+2. item 2
+[git](https://github.com/ansh-chaturvedi0210/demo-file-for-practice-.git)
+![spider](28343843.jpg)
+[] dancing 
+[X] marna
