@@ -1,0 +1,1 @@
+This is a normal txt file for checking the  git add status and commit commands in git and github.
